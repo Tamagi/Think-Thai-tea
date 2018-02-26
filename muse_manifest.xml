@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thinkthaitea.com" resolutions="1x" timestamp="1503563043627">
+  <folder name="fonts">
+    <file name="montserrat bold.woff" crc="172023990"/>
+    <file name="montserrat bold.eot" crc="4222413656"/>
+    <file name="montserrat bold.svg" crc="421732484"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="494582500" ref="index"/>
+    <file name="contact-us.css" crc="169640670" ref="contact-us"/>
+    <file name="franchise.css" crc="169640670" ref="franchise"/>
+    <file name="location.css" crc="169640670" ref="location"/>
+    <file name="master_master-home.css" crc="4206543661" ref="franchise:contact-us:index:product:location"/>
+    <file name="product.css" crc="169640670" ref="product"/>
+  </folder>
+  <folder name="assets">
+    <file name="splash.png" crc="100255182" seo="true" mt="1502167864000"/>
+    <file name="leaf.png" crc="300054212" seo="true" mt="1502167546000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:franchise:contact-us:location:product"/>
+    <file name="museutils.js" crc="4216313831" ref="index:franchise:contact-us:location:product"/>
+    <file name="whatinput.js" crc="86476730" ref="index:franchise:contact-us:location:product"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:franchise:contact-us:location:product"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:franchise:contact-us:location:product"/>
+    <file name="require.js" crc="3951022091" ref="index:franchise:contact-us:location:product"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:franchise:contact-us:location:product"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3946760880" ref="index"/>
+    <file name="background.png" crc="4178289347" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background.jpg" crc="370181994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero.png" crc="35790344" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="favicon.ico" crc="3946760880" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="4268997571" seo="true" mt="1503562984338" redirect="true"/>
+  <file name="franchise.html" crc="4093927299" seo="true" mt="1503562967032" redirect="true"/>
+  <file name="contact-us.html" crc="32796549" seo="true" mt="1503562974666" redirect="true"/>
+  <file name="location.html" crc="4192356081" seo="true" mt="1503562970271" redirect="true"/>
+  <file name="product.html" crc="4205338454" seo="true" mt="1503562957625" redirect="true"/>
+</manifest>
